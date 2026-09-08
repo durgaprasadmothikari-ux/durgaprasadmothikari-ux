@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Durga Prasad Mothikari 👋
 
-<!--
-**durgaprasadmothikari-ux/durgaprasadmothikari-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### From Machines to Machine Learning
 
-Here are some ideas to get you started:
+I am a B.Tech student in Artificial Intelligence & Machine Learning with a Diploma background in Mechanical Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in:
+- Artificial Intelligence
+- Machine Learning
+- Robotics
+- Automation
+
+## Education
+
+**Gandhi Institute of Technology and Management (GITAM)**  
+B.Tech in Artificial Intelligence & Machine Learning — 2029
+
+**Government Polytechnic Visakhapatnam**  
+Diploma in Mechanical Engineering — 2026
+
+## Skills
+
+- C — Basic
+- Java — Intermediate
+- Python — Basic
+- AutoCAD — Intermediate
+- GitHub — Basic
+- 3D Printing — Intermediate
+- Sensors and Actuators
+- Basic Robotics
+- Automation — Basic
+
+## Portfolio
+
+🌐 [Visit my portfolio](https://durgaprasadmothikari-ux.github.io/durga-prasad-portfolio/)
+
+---
+
+**Durga Prasad Mothikari** | AI & ML Student | Robotics & Automation Enthusiast
