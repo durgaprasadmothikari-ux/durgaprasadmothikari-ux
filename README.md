@@ -1,4 +1,4 @@
-# Hi, I'm Durga Prasad Mothikari 👋
+# Hi, I'm Durga Prasad Mothikari 
 
 ### From Machines to Machine Learning
 
